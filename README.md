@@ -1,4 +1,1 @@
-# You can run my code on the replit online IDE to check how it works!!
-https://replit.com/join/afkqszmrfo-kamilsynowiec
-
-# MongoDB-Mongoose
+# [MongoDB and Mongoose Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/)
